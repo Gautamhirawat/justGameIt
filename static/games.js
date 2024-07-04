@@ -5,7 +5,7 @@ document.getElementById('games').innerHTML =
 `
 
 
-    <link rel="stylesheet" href="games.css">    
+    <link rel="stylesheet" href="static/games.css">    
 
 <div class="tiles">
   <div class="col">
