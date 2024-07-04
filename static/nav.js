@@ -1,8 +1,6 @@
 
 document.getElementById('nav_bar').innerHTML = `  
 
-    <link rel="stylesheet" href="/slidebar.css">
-    <link rel="stylesheet" href="/index.css">
 <nav class="navbar">
         <ul class="navbar__menu">
           <li class="navbar__item">
