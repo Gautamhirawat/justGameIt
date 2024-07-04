@@ -5,7 +5,7 @@ document.getElementById('games').innerHTML =
 `
 
 
-    <link rel="stylesheet" href="https://github.com/Gautamhirawat/justGameIt.github.io/games.css">    
+    <link rel="stylesheet" href="https://github.com/Gautamhirawat/justGameIt.github.io/static/games.css">    
 
 <div class="tiles">
   <div class="col">
