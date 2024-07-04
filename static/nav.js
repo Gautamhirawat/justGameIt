@@ -15,7 +15,7 @@ document.getElementById('nav_bar').innerHTML = `
             <a href="#" class="navbar__link"><i data-feather="users"></i><span>Login</span></a>        
           </li>
           <li class="navbar__item">
-            <a href="https://gautamhirawat.github.io/justGameIt.github.io/games.html" class="navbar__link"><i data-feather="play"></i><span>Games</span></a>        
+            <a href="games.html" class="navbar__link"><i data-feather="play"></i><span>Games</span></a>        
           </li>
           <li class="navbar__item">
             <a href="#Resources" class="navbar__link"><i data-feather="archive"></i><span>Resources</span></a>        
