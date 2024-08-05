@@ -94,7 +94,7 @@ html, body {
   backface-visibility: hidden;
 }
 .col .box:after {
-  content: "Hi!";
+  content: "";
   position: absolute;
   width: 100%;
   height: 100%;
@@ -108,109 +108,110 @@ html, body {
   transition-delay: 0.15s;
 }
 .col:nth-child(1) .box:before {
-    background-image: url('../assets/car.jpg');
-    background-size: 138px 138px;
-    width: 138px; 
-    height: 138px;
-    content: " (" attr(href) ")";
+  background: #3f51b5;
+
 
 }
 .col:nth-child(1) .box:after {
   background: #3f51b5;
+  /* background-image: url('');
+  background-size: 138px 138px;
+  width: 138px; 
+  height: 138px; */
 }
 .col:nth-child(2) .box:before {
-  content: " (" attr(href) ")";
+  
   background: #1da1f2;
 }
 .col:nth-child(2) .box:after {
   background: #1da1f2;
 }
 .col:nth-child(3) .box:before {
-  content: " (" attr(href) ")";
+  
   background: #dc4a38;
 }
 .col:nth-child(3) .box:after {
   background: #dc4a38;
 }
 .col:nth-child(4) .box:before {
-  content: " (" attr(href) ")";
+  
   background: #006699;
 }
 .col:nth-child(4) .box:after {
   background: #006699;
 }
 .col:nth-child(5) .box:before {
-  content: " (" attr(href) ")";
+  
   background: #36465d;
 }
 .col:nth-child(5) .box:after {
   background: #36465d;
 }
 .col:nth-child(6) .box:before {
-  content: " (" attr(href) ")";
+  
   background: #f16528;
 }
 .col:nth-child(6) .box:after {
   background: #f16528;
 }
 .col:nth-child(7) .box:before {
-  content: " (" attr(href) ")";
+  
   background: #0170ba;
 }
 .col:nth-child(7) .box:after {
   background: #0170ba;
 }
 .col:nth-child(8) .box:before {
-  content: " (" attr(href) ")";
+  
   background: #21759b;
 }
 .col:nth-child(8) .box:after {
   background: #21759b;
 }
 .col:nth-child(9) .box:before {
-  content: " (" attr(href) ")";
+  
   background: #323131;
 }
 .col:nth-child(9) .box:after {
   background: #323131;
 }
 .col:nth-child(10) .box:before {
-  content: " (" attr(href) ")";
+  
   background: #000000;
 }
 .col:nth-child(10) .box:after {
   background: #000000;
 }
 .col:nth-child(11) .box:before {
-  content: " (" attr(href) ")";
+  
   background: #fec540;
 }
 .col:nth-child(11) .box:after {
   background: #fec540;
 }
 .col:nth-child(12) .box:before {
-  content: " (" attr(href) ")";
+  
   background: #ef8043;
 }
 .col:nth-child(12) .box:after {
   background: #ef8043;
 }
 .col:nth-child(13) .box:before {
-  content: " (" attr(href) ")";
+  
   background: #2c74be;
 }
 .col:nth-child(13) .box:after {
   background: #2c74be;
 }
 .col:nth-child(14) .box:before {
-  content: " (" attr(href) ")";
+  
   background: #409ed4;
 }
 .col:nth-child(14) .box:after {
   background: #409ed4;
 }
 .col:nth-child(15) .box:before {
-  content: " (" attr(href) ")";
+  
   background: #cc0f15;
 }
 .col:nth-child(15) .box:after {
